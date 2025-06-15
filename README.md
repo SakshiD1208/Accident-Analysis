@@ -26,14 +26,10 @@ This repository contains an in-depth **Accident Analysis** project using **Power
 
 ---
 
-## 📁 Repository Structure
+## 📂 Data & Resources
 
-accident-analysis/
-├── powerbi/
-│ └── Accident_Analysis_Report.pbix
-├── tableau/
-│ └── Accident_Dashboard.twbx
-├── images/
-│ ├── pbix_dashboard_preview.png
-│ └── tableau_dashboard_preview.png
-└── README.md
+- 🔶 **Data & Resources for Power BI**:  
+  [Google Drive Folder](https://drive.google.com/drive/folders/1pCNs-TRPznlbAn712gAGy7XfBnWs2QJm)
+
+- 🔷 **Data for Tableau**:  
+  [Google Sheets Dataset](https://docs.google.com/spreadsheets/d/1-1Ldoe-DwZTL77tdMtRgZAIzeAzs0jh3/edit?gid=2089618187#gid=2089618187)
